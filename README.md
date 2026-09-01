@@ -9,3 +9,6 @@
 
 <h1>Tecnologias utilizadas</h1>
 <p>Figma <br> GitHub</p>
+
+<h1>Professores:</h1>
+<p>André Luis Denani <br> Raul Porto Lopes</p>
