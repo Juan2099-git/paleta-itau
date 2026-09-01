@@ -8,4 +8,4 @@
 <p>1IE-DS</p>
 
 <h1>Tecnologias utilizadas</h1>
-<p>Figma e GitHub</p>
+<p>Figma <br> GitHub</p>
