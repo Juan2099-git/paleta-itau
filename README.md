@@ -2,10 +2,10 @@
 <img width="1091" height="773" alt="Captura de tela 2026-09-01 140639" src="https://github.com/user-attachments/assets/d53e31e1-1a2a-4e95-87ad-f66ffd3bd946" />
 
 <h1>Autor:</h1>
-<h2>Juan Diego da Silva Bassetto Assumpção</h2>
+<p>Juan Diego da Silva Bassetto Assumpção</p>
 
 <h1>Turma:</h1>
-<h2>1IE-DS</h2>
+<p>1IE-DS</p>
 
 <h1>Tecnologias utilizadas</h1>
 <p>Figma e GitHub</p>
